@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: "/half_remembered_library/",
     plugins: [
       react(),
       tailwindcss(),
