@@ -1,0 +1,6 @@
+{
+  "name": "The Half-Remembered Library",
+  "description": "A Partial-Title Retrieval System using a suffix#prefix trie index to resolve prefix and suffix clues in O(P+S) time with newest-record priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
